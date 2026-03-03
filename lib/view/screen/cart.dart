@@ -1,5 +1,4 @@
 import 'package:e_comerce/controller/CartController.dart';
-import 'package:e_comerce/view/screen/home.dart';
 import 'package:e_comerce/view/widgets/costum_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
